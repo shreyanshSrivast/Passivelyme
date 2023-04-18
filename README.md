@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shreyansh
-- 👀 I’m interested in ai and games 
-- 🌱 I’m currently learning AIML
+- 👀 I’m interested in AI and games
 - 📫 reach me @ shreyansh29.srivastava@gmail.com
 
 <!---
