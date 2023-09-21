@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shreyansh
 - 👀 I’m interested in coding and games
-- 📫 reach me @ shreyansh29.srivastava@gmail.com
+-
 
 <!---
 Passivelyme/Passivelyme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
