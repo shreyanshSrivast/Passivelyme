@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently experimenting with stuff<br>🤝 I’m looking for help with Linux ecosystem<br>🌱 I’m currently learning about AI and Machine Learning with Data Science<br>⚡ Fun fact i love to see and understand the underlying code
+🔭 I’m currently experimenting with stuff<br>🌱 I’m currently learning about AI and Machine Learning with Data Science<br>⚡ Fun fact i love to see and understand the underlying code
 
 
 ## 🌐 Socials:
